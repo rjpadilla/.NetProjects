@@ -1,0 +1,7 @@
+C:\C# and .Net\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\bin\Debug\SimpleCSharpConsoleApp.exe.config
+C:\C# and .Net\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\bin\Debug\SimpleCSharpConsoleApp.exe
+C:\C# and .Net\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\bin\Debug\SimpleCSharpConsoleApp.pdb
+C:\C# and .Net\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\SimpleCSharpConsoleApp.csprojResolveAssemblyReference.cache
+C:\C# and .Net\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\SimpleCSharpConsoleApp.csproj.CoreCompileInputs.cache
+C:\C# and .Net\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\SimpleCSharpConsoleApp.exe
+C:\C# and .Net\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\SimpleCSharpConsoleApp.pdb
