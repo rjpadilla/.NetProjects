@@ -1,0 +1,7 @@
+C:\C# and .Net\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe.config
+C:\C# and .Net\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe
+C:\C# and .Net\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.pdb
+C:\C# and .Net\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.csprojResolveAssemblyReference.cache
+C:\C# and .Net\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.csproj.CoreCompileInputs.cache
+C:\C# and .Net\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.exe
+C:\C# and .Net\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.pdb

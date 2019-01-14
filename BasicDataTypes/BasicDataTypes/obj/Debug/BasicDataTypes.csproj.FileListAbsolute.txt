@@ -1,0 +1,7 @@
+C:\C# and .Net\BasicDataTypes\BasicDataTypes\bin\Debug\BasicDataTypes.exe.config
+C:\C# and .Net\BasicDataTypes\BasicDataTypes\bin\Debug\BasicDataTypes.exe
+C:\C# and .Net\BasicDataTypes\BasicDataTypes\bin\Debug\BasicDataTypes.pdb
+C:\C# and .Net\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.csprojResolveAssemblyReference.cache
+C:\C# and .Net\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.csproj.CoreCompileInputs.cache
+C:\C# and .Net\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.exe
+C:\C# and .Net\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.pdb
