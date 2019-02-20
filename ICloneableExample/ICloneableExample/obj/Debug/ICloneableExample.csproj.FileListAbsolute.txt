@@ -1,0 +1,7 @@
+C:\Users\raulp\Documents\C# and .Net\ICloneableExample\ICloneableExample\bin\Debug\ICloneableExample.exe.config
+C:\Users\raulp\Documents\C# and .Net\ICloneableExample\ICloneableExample\bin\Debug\ICloneableExample.exe
+C:\Users\raulp\Documents\C# and .Net\ICloneableExample\ICloneableExample\bin\Debug\ICloneableExample.pdb
+C:\Users\raulp\Documents\C# and .Net\ICloneableExample\ICloneableExample\obj\Debug\ICloneableExample.csprojAssemblyReference.cache
+C:\Users\raulp\Documents\C# and .Net\ICloneableExample\ICloneableExample\obj\Debug\ICloneableExample.csproj.CoreCompileInputs.cache
+C:\Users\raulp\Documents\C# and .Net\ICloneableExample\ICloneableExample\obj\Debug\ICloneableExample.exe
+C:\Users\raulp\Documents\C# and .Net\ICloneableExample\ICloneableExample\obj\Debug\ICloneableExample.pdb

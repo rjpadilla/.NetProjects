@@ -1,0 +1,7 @@
+C:\C# and .Net\FunWithEnums\FunWithEnums\bin\Debug\FunWithEnums.exe.config
+C:\C# and .Net\FunWithEnums\FunWithEnums\bin\Debug\FunWithEnums.exe
+C:\C# and .Net\FunWithEnums\FunWithEnums\bin\Debug\FunWithEnums.pdb
+C:\C# and .Net\FunWithEnums\FunWithEnums\obj\Debug\FunWithEnums.csprojResolveAssemblyReference.cache
+C:\C# and .Net\FunWithEnums\FunWithEnums\obj\Debug\FunWithEnums.csproj.CoreCompileInputs.cache
+C:\C# and .Net\FunWithEnums\FunWithEnums\obj\Debug\FunWithEnums.exe
+C:\C# and .Net\FunWithEnums\FunWithEnums\obj\Debug\FunWithEnums.pdb

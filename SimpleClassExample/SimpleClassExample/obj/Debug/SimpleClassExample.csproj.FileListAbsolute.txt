@@ -1,0 +1,7 @@
+C:\C# and .Net\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+C:\C# and .Net\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+C:\C# and .Net\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+C:\C# and .Net\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.csprojResolveAssemblyReference.cache
+C:\C# and .Net\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.csproj.CoreCompileInputs.cache
+C:\C# and .Net\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+C:\C# and .Net\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.pdb

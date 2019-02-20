@@ -1,0 +1,7 @@
+C:\C# and .Net\Basic Inheritance\Basic Inheritance\bin\Debug\Basic Inheritance.exe.config
+C:\C# and .Net\Basic Inheritance\Basic Inheritance\bin\Debug\Basic Inheritance.exe
+C:\C# and .Net\Basic Inheritance\Basic Inheritance\bin\Debug\Basic Inheritance.pdb
+C:\C# and .Net\Basic Inheritance\Basic Inheritance\obj\Debug\Basic Inheritance.csprojResolveAssemblyReference.cache
+C:\C# and .Net\Basic Inheritance\Basic Inheritance\obj\Debug\Basic Inheritance.csproj.CoreCompileInputs.cache
+C:\C# and .Net\Basic Inheritance\Basic Inheritance\obj\Debug\Basic Inheritance.exe
+C:\C# and .Net\Basic Inheritance\Basic Inheritance\obj\Debug\Basic Inheritance.pdb

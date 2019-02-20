@@ -1,0 +1,7 @@
+C:\C# and .Net\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\C# and .Net\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\C# and .Net\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\C# and .Net\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\C# and .Net\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\C# and .Net\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\C# and .Net\Shapes\Shapes\obj\Debug\Shapes.pdb

@@ -1,0 +1,11 @@
+C:\Users\raulp\Documents\C# and .Net\InterfaceNameClash\InterfaceNameClash\bin\Debug\netcoreapp2.1\InterfaceNameClash.deps.json
+C:\Users\raulp\Documents\C# and .Net\InterfaceNameClash\InterfaceNameClash\bin\Debug\netcoreapp2.1\InterfaceNameClash.runtimeconfig.json
+C:\Users\raulp\Documents\C# and .Net\InterfaceNameClash\InterfaceNameClash\bin\Debug\netcoreapp2.1\InterfaceNameClash.runtimeconfig.dev.json
+C:\Users\raulp\Documents\C# and .Net\InterfaceNameClash\InterfaceNameClash\bin\Debug\netcoreapp2.1\InterfaceNameClash.dll
+C:\Users\raulp\Documents\C# and .Net\InterfaceNameClash\InterfaceNameClash\bin\Debug\netcoreapp2.1\InterfaceNameClash.pdb
+C:\Users\raulp\Documents\C# and .Net\InterfaceNameClash\InterfaceNameClash\obj\Debug\netcoreapp2.1\InterfaceNameClash.csprojAssemblyReference.cache
+C:\Users\raulp\Documents\C# and .Net\InterfaceNameClash\InterfaceNameClash\obj\Debug\netcoreapp2.1\InterfaceNameClash.csproj.CoreCompileInputs.cache
+C:\Users\raulp\Documents\C# and .Net\InterfaceNameClash\InterfaceNameClash\obj\Debug\netcoreapp2.1\InterfaceNameClash.AssemblyInfoInputs.cache
+C:\Users\raulp\Documents\C# and .Net\InterfaceNameClash\InterfaceNameClash\obj\Debug\netcoreapp2.1\InterfaceNameClash.AssemblyInfo.cs
+C:\Users\raulp\Documents\C# and .Net\InterfaceNameClash\InterfaceNameClash\obj\Debug\netcoreapp2.1\InterfaceNameClash.dll
+C:\Users\raulp\Documents\C# and .Net\InterfaceNameClash\InterfaceNameClash\obj\Debug\netcoreapp2.1\InterfaceNameClash.pdb

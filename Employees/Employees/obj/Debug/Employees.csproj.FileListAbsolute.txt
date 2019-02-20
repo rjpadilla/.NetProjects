@@ -1,0 +1,7 @@
+C:\C# and .Net\Employees\Employees\bin\Debug\Employees.exe.config
+C:\C# and .Net\Employees\Employees\bin\Debug\Employees.exe
+C:\C# and .Net\Employees\Employees\bin\Debug\Employees.pdb
+C:\C# and .Net\Employees\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
+C:\C# and .Net\Employees\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\C# and .Net\Employees\Employees\obj\Debug\Employees.exe
+C:\C# and .Net\Employees\Employees\obj\Debug\Employees.pdb

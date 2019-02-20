@@ -1,0 +1,14 @@
+C:\C# and .Net\SimpleException\SimpleException\bin\Debug\SimpleException.exe.config
+C:\C# and .Net\SimpleException\SimpleException\bin\Debug\SimpleException.exe
+C:\C# and .Net\SimpleException\SimpleException\bin\Debug\SimpleException.pdb
+C:\C# and .Net\SimpleException\SimpleException\obj\Debug\SimpleException.csprojResolveAssemblyReference.cache
+C:\C# and .Net\SimpleException\SimpleException\obj\Debug\SimpleException.csproj.CoreCompileInputs.cache
+C:\C# and .Net\SimpleException\SimpleException\obj\Debug\SimpleException.exe
+C:\C# and .Net\SimpleException\SimpleException\obj\Debug\SimpleException.pdb
+C:\Users\raulp\Documents\C# and .Net\SimpleException\SimpleException\bin\Debug\SimpleException.exe.config
+C:\Users\raulp\Documents\C# and .Net\SimpleException\SimpleException\bin\Debug\SimpleException.exe
+C:\Users\raulp\Documents\C# and .Net\SimpleException\SimpleException\bin\Debug\SimpleException.pdb
+C:\Users\raulp\Documents\C# and .Net\SimpleException\SimpleException\obj\Debug\SimpleException.csprojAssemblyReference.cache
+C:\Users\raulp\Documents\C# and .Net\SimpleException\SimpleException\obj\Debug\SimpleException.csproj.CoreCompileInputs.cache
+C:\Users\raulp\Documents\C# and .Net\SimpleException\SimpleException\obj\Debug\SimpleException.exe
+C:\Users\raulp\Documents\C# and .Net\SimpleException\SimpleException\obj\Debug\SimpleException.pdb

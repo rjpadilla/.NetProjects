@@ -1,0 +1,7 @@
+C:\C# and .Net\AutoProps\AutoProps\bin\Debug\AutoProps.exe.config
+C:\C# and .Net\AutoProps\AutoProps\bin\Debug\AutoProps.exe
+C:\C# and .Net\AutoProps\AutoProps\bin\Debug\AutoProps.pdb
+C:\C# and .Net\AutoProps\AutoProps\obj\Debug\AutoProps.csprojResolveAssemblyReference.cache
+C:\C# and .Net\AutoProps\AutoProps\obj\Debug\AutoProps.csproj.CoreCompileInputs.cache
+C:\C# and .Net\AutoProps\AutoProps\obj\Debug\AutoProps.exe
+C:\C# and .Net\AutoProps\AutoProps\obj\Debug\AutoProps.pdb

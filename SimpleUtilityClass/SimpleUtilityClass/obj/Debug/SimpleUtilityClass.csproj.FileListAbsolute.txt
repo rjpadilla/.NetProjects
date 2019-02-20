@@ -1,0 +1,7 @@
+C:\C# and .Net\SimpleUtilityClass\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe.config
+C:\C# and .Net\SimpleUtilityClass\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe
+C:\C# and .Net\SimpleUtilityClass\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.pdb
+C:\C# and .Net\SimpleUtilityClass\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.csprojResolveAssemblyReference.cache
+C:\C# and .Net\SimpleUtilityClass\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.csproj.CoreCompileInputs.cache
+C:\C# and .Net\SimpleUtilityClass\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.exe
+C:\C# and .Net\SimpleUtilityClass\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.pdb

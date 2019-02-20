@@ -1,0 +1,7 @@
+C:\C# and .Net\ObjectOverrides\ObjectOverrides\bin\Debug\ObjectOverrides.exe.config
+C:\C# and .Net\ObjectOverrides\ObjectOverrides\bin\Debug\ObjectOverrides.exe
+C:\C# and .Net\ObjectOverrides\ObjectOverrides\bin\Debug\ObjectOverrides.pdb
+C:\C# and .Net\ObjectOverrides\ObjectOverrides\obj\Debug\ObjectOverrides.csprojResolveAssemblyReference.cache
+C:\C# and .Net\ObjectOverrides\ObjectOverrides\obj\Debug\ObjectOverrides.csproj.CoreCompileInputs.cache
+C:\C# and .Net\ObjectOverrides\ObjectOverrides\obj\Debug\ObjectOverrides.exe
+C:\C# and .Net\ObjectOverrides\ObjectOverrides\obj\Debug\ObjectOverrides.pdb

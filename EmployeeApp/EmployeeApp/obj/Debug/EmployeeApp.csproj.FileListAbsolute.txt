@@ -1,0 +1,7 @@
+C:\C# and .Net\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\C# and .Net\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\C# and .Net\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\C# and .Net\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csprojResolveAssemblyReference.cache
+C:\C# and .Net\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\C# and .Net\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\C# and .Net\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.pdb

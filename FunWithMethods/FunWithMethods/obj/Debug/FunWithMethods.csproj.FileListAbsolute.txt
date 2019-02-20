@@ -1,0 +1,7 @@
+C:\C# and .Net\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.exe.config
+C:\C# and .Net\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.exe
+C:\C# and .Net\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.pdb
+C:\C# and .Net\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.csprojResolveAssemblyReference.cache
+C:\C# and .Net\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.csproj.CoreCompileInputs.cache
+C:\C# and .Net\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.exe
+C:\C# and .Net\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.pdb

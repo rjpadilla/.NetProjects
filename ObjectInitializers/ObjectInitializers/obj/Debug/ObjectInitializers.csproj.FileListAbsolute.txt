@@ -1,0 +1,7 @@
+C:\C# and .Net\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.exe.config
+C:\C# and .Net\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.exe
+C:\C# and .Net\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.pdb
+C:\C# and .Net\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.csprojResolveAssemblyReference.cache
+C:\C# and .Net\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.csproj.CoreCompileInputs.cache
+C:\C# and .Net\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.exe
+C:\C# and .Net\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.pdb

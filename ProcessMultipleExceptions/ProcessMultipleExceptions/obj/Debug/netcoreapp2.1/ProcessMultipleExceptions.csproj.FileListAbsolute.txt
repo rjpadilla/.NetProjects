@@ -1,0 +1,11 @@
+C:\Users\raulp\Documents\C# and .Net\ProcessMultipleExceptions\ProcessMultipleExceptions\bin\Debug\netcoreapp2.1\ProcessMultipleExceptions.deps.json
+C:\Users\raulp\Documents\C# and .Net\ProcessMultipleExceptions\ProcessMultipleExceptions\bin\Debug\netcoreapp2.1\ProcessMultipleExceptions.runtimeconfig.json
+C:\Users\raulp\Documents\C# and .Net\ProcessMultipleExceptions\ProcessMultipleExceptions\bin\Debug\netcoreapp2.1\ProcessMultipleExceptions.runtimeconfig.dev.json
+C:\Users\raulp\Documents\C# and .Net\ProcessMultipleExceptions\ProcessMultipleExceptions\bin\Debug\netcoreapp2.1\ProcessMultipleExceptions.dll
+C:\Users\raulp\Documents\C# and .Net\ProcessMultipleExceptions\ProcessMultipleExceptions\bin\Debug\netcoreapp2.1\ProcessMultipleExceptions.pdb
+C:\Users\raulp\Documents\C# and .Net\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\netcoreapp2.1\ProcessMultipleExceptions.csprojAssemblyReference.cache
+C:\Users\raulp\Documents\C# and .Net\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\netcoreapp2.1\ProcessMultipleExceptions.csproj.CoreCompileInputs.cache
+C:\Users\raulp\Documents\C# and .Net\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\netcoreapp2.1\ProcessMultipleExceptions.AssemblyInfoInputs.cache
+C:\Users\raulp\Documents\C# and .Net\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\netcoreapp2.1\ProcessMultipleExceptions.AssemblyInfo.cs
+C:\Users\raulp\Documents\C# and .Net\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\netcoreapp2.1\ProcessMultipleExceptions.dll
+C:\Users\raulp\Documents\C# and .Net\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\netcoreapp2.1\ProcessMultipleExceptions.pdb
